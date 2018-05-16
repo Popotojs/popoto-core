@@ -13,6 +13,8 @@
 [![doc coverage](http://inch-ci.org/github/popotojs/popoto-core.svg?branch=master)](https://inch-ci.org/github/popotojs/popoto-core)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/Popotojs/popoto-core.svg?columns=all)](https://waffle.io/Popotojs/popoto-core)
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/FredCiminera)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7af500364314b7358af8/maintainability)](https://codeclimate.com/github/Popotojs/popoto-core/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/7af500364314b7358af8/test_coverage)](https://codeclimate.com/github/Popotojs/popoto-core/test_coverage)
 
 Core popoto features without UI.
 
